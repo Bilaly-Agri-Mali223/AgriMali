@@ -1,1 +1,45 @@
-[]
+[
+
+    {
+
+        "nom": "Ferme AgriMali",
+
+        "culture": "Maïs",
+
+        "ville": "Bamako",
+
+        "telephone": "70000000",
+
+        "date": "15/08/2026"
+
+    },
+
+    {
+
+        "nom": "Ferme du Sahel",
+
+        "culture": "Riz",
+
+        "ville": "Ségou",
+
+        "telephone": "71000000",
+
+        "date": "15/08/2026"
+
+    },
+
+    {
+
+        "nom": "Ferme de l'Espoir",
+
+        "culture": "Mil",
+
+        "ville": "Mopti",
+
+        "telephone": "72000000",
+
+        "date": "15/08/2026"
+
+    }
+
+]
