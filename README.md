@@ -1,23 +1,99 @@
-# AgriMali
+# 🌱 AgriMali
 
-**Smart Agricultural Management System for Malian Farmers**
+## Smart Agricultural Management System for Mali
 
-## About
-AgriMali is a mobile application built with Python to help small farmers in Mali. 
-It provides weather forecasts, market prices, and personalized farming advice to increase crop yields.
+AgriMali is a Python-based agricultural management project designed to explore how digital technology can support farmers and agricultural management in Mali.
 
-## Key Features
-- 🌤️ **Weather Alerts** : Daily weather for farmers
-- 📊 **Market Prices** : Real-time prices for millet, rice, corn
-- 🤖 **AI Advice** : Smart recommendations based on location and season
-- 📱 **Offline Mode** : Works without internet
+The current version focuses on managing farm information through a simple graphical interface.
 
-## Technology
-- Language: Python
-- Goal: Digital Agriculture / AgriTech for Africa
+## 🎯 Project Objective
 
-## Author
-**Bilaly** - TESCO Student | Future Open Doors Applicant 2027
-GitHub: github.com/Bilaly-Agri-Mali223
+The main goal of AgriMali is to create a digital tool that can help organize agricultural information and demonstrate how programming can be applied to agriculture.
 
-This project is part of my application for Open Doors Olympiad - Computer Science Track.
+This project combines my interests in:
+
+- 🌾 Agriculture
+
+- 💻 Computer Science
+
+- 🤖 Artificial Intelligence
+
+- 📊 Data Management
+
+## ✨ Current Features
+
+- 🌱 Add farm information
+
+- 🔎 Search farms
+
+- ✏️ Edit farm information
+
+- 🗑️ Delete farms
+
+- 📊 Display basic statistics
+
+- 💾 Save farm data automatically
+
+- 🗂️ Store information in JSON format
+
+- 🖥️ Graphical interface using Tkinter
+
+## 🚀 Future Development
+
+The project is planned to evolve into a larger agricultural platform with features such as:
+
+- 🌤️ Weather information and alerts
+
+- 📊 Agricultural market price information
+
+- 🤖 AI-based farming recommendations
+
+- 📱 Mobile version
+
+- 🌐 Online and offline functionality
+
+- 👨‍🌾 Farmer management
+
+- 🌾 Crop management
+
+- 📈 Agricultural statistics
+
+- 📍 Farm location management
+
+## 🛠️ Technologies
+
+### Current
+
+- Python 3
+
+- Tkinter
+
+- JSON
+
+- Object-Oriented Programming
+
+### Planned
+
+- SQLite
+
+- OpenPyXL
+
+- ReportLab
+
+- APIs
+
+- Artificial Intelligence
+
+## 📂 Project Structure
+
+```text
+
+AgriMali/
+
+│
+
+├── main.py
+
+├── fermes.json
+
+└── README.md
